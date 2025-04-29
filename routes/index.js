@@ -11,7 +11,7 @@ router.get('/', function (req, res, next) {
 
    res.render('index',
       {
-         title: "The cat Said No!",
+         title: "The cat Said No!!!!!",
          imgPath: inImgPath
       }
    );
